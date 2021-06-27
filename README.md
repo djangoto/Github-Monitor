@@ -189,3 +189,7 @@ Github API有次数限制，1分钟最多请求30次，为了提高爬取速度�
 
 ![Wechat](docs/media/wechat.jpeg)
 
+## 补充 
+1、安装的版本需要根据requirements和python一致，用新版本会出问题。python3.6可以。
+2、后端和前端都要运行。
+3、github的监控可能需要翻墙环境。
